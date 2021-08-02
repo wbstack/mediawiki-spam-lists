@@ -1,1 +1,27 @@
+# They are prefixed with [a-z0-9_\-.]*
+# Per https://github.com/wikimedia/mediawiki-extensions-SpamBlacklist/blob/master/includes/BaseBlacklist.php#L425
+# Thus a valid looking regex is probably something like this: \@foo\.com
+# Which would end up being [a-z0-9_\-.]*\@foo\.com
 
+# Top domains (2 August 2021)
+\@apluson\.xyz
+\@mupick\.xyz
+\@from\.crossandgarlic\.com
+\@bronze\.crossandgarlic\.com
+\@varsidesk\.com
+\@vaulker\.com
+\@genericimages\.com
+\@drypipe\.com
+\@lowendjunk\.com
+\@brasil\-empresas\.com
+\@onebyair\.com
+\@lampartist\.com
+\@visagency\.online
+\@visagency\.net
+\@visagency\.us
+\@asiavirtualsolutions\.net
+\@linkbuilding\.club
+\@linkbuildingtools\.club
+\@linkbuildingtools\.work
+\@linkbuilding\.network
+\@wikibacklinks\.store
