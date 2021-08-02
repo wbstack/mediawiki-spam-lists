@@ -6,8 +6,7 @@
 # Top domains (2 August 2021)
 \@apluson\.xyz
 \@mupick\.xyz
-\@from\.crossandgarlic\.com
-\@bronze\.crossandgarlic\.com
+\@[a-z0-9_\-.]*\.crossandgarlic\.com
 \@varsidesk\.com
 \@vaulker\.com
 \@genericimages\.com
@@ -25,3 +24,14 @@
 \@linkbuildingtools\.work
 \@linkbuilding\.network
 \@wikibacklinks\.store
+
+# From recent registrations (2 August 2021)
+\@webmarketingtools\.net
+\@[a-z0-9_\-.]*\.dynamailbox\.com
+\@usatravel\.network
+\@asiavirtualsolutions\.net
+\@thailand\-mega\.com
+\@[a-z0-9_\-.]*\.ceramicsouvenirs\.com
+\@[a-z0-9_\-.]*\.junkcarsfloridamiami\.com
+\@[a-z0-9_\-.]*\.malsers\.com
+\@[a-z0-9_\-.]*\.westrb\.com
