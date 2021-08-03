@@ -45,6 +45,13 @@
 \@[a-z0-9_\-.]*\.wirelax\.com
 \@[a-z0-9_\-.]*\.sfxmailbox\.com
 \@[a-z0-9_\-.]*\.kellergy\.com
+\@[a-z0-9_\-.]*\.freshbreadcrumbs\.com
+\@[a-z0-9_\-.]*\.extravagandideas\.com
+\@[a-z0-9_\-.]*\.silkwomenshirts\.com
+\@[a-z0-9_\-.]*\.tastyarabicacoffee\.com
+\@[a-z0-9_\-.]*\.softhandscream\.com
+\@[a-z0-9_\-.]*\.aquadivingaccessories\.com
+\@bangkok[a-z0-9_\-.]*\.(net|com)
 \@webmarketingtools\.net
 \@usatravel\.network
 \@asiavirtualsolutions\.net
@@ -55,6 +62,8 @@
 \@caraccessories\.ltd
 \@hidebox\.org
 \@solarlamps\.store
+\@bettereyesight\.store
 \@1secmail\.com
+\@tempr\.email
 \@wirelessphonecharger\.club
-\@bangkokremovals\.net
+\@tokyoto\.site
