@@ -24,10 +24,6 @@
 \@linkbuildingtools\.work
 \@linkbuilding\.network
 \@wikibacklinks\.store
-\@getit\.social
-\@loanme\.cheap
-\@b\.loanme\.loan
-\@a\.shavers\.care
 
 # From recent registrations (2 August 2021)
 \@[a-z0-9_\-.]*\.dynamailbox\.com
@@ -71,3 +67,9 @@
 \@tempr\.email
 \@wirelessphonecharger\.club
 \@tokyoto\.site
+
+# November 2021
+\@getit\.social
+\@loanme\.cheap
+\@b\.loanme\.loan
+\@a\.shavers\.care
